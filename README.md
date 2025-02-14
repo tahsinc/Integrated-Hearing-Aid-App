@@ -17,7 +17,7 @@ Supporting materials related to this work are available via the following links:
 | <https://ieeexplore.ieee.org/abstract/document/8512970>                    | IEEE Manuscript                                                       |
 | <http://www.utdallas.edu/~kehtar/IntegratedApp.mp4>      | A videoclip demonstrating the settings and real-time operation of the developed integrated app         |
 
-## Getting Started
+## Getting Started 
 
 A [User's Guide](Users-Guide-IntegratedApp.pdf) is provided which describes the codes for training and for real-time operation on Android and iOS smartphone platforms.
 
